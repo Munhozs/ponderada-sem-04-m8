@@ -87,6 +87,11 @@ Após a conexão, o seguinte programa é incorporado ao Raspberry para possibili
         print('Distância:', distancia, 'cm')
         sleep(0.1)
 
+
+Cabe ressaltar que, no código supracitado, a interface de comunicação do computador com o sistema embarcado é serial e está presente na transmissão de dados pelo protocolo I2C, pelas portas SDA e SCL. Tal configuração é delimitada na linha:
+
+        sensor_ultrassonico = SensorUltrassonicoHCSR04(pino_trigger=2, pino_echo=3, echo_timeout_us=10000)
+
 De forma aplicada, é possível obter a seguinte visualização gráfica para o usuário na parte inferior da imagem:
 
 ![demonstração do código](./img/demonstracaoCodigo.jpeg)
