@@ -93,10 +93,10 @@ De forma aplicada, é possível obter a seguinte visualização gráfica para o 
 
 Imagem 4: demonstração da interface para o usuário.
 
-E aplicando no mundo real o código, podemos ver sua aplicação e funcionamento no [vídeo](https://drive.google.com/file/d/1nderVWFbFh5oDPzJrh0DHYFe4yAVXYzr/view?usp=sharing), em que é nítida a conexão entre o computador e a interface. De forma mais simples, a imagem na sequência também evidencia essa conexão:
+E aplicando no mundo real o código, podemos ver sua aplicação e funcionamento no [vídeo](https://drive.google.com/file/d/1nderVWFbFh5oDPzJrh0DHYFe4yAVXYzr/view?usp=sharing), em que é nítida a conexão entre o computador e o sistema embarcado. De forma mais simples, a imagem na sequência também evidencia essa conexão:
 
 ![demonstração mundo real](./img/demonstracaoReal.jpeg)
 
 Imagem 5: demonstração no mundo real do Raspberry com o código.
 
-Sendo assim, a presente documentação demonstra o funcionamento da aplicação proposta e explica com o sensor utilizado funciona em linhas gerais.    
+Sendo assim, a presente documentação demonstra o funcionamento da aplicação proposta e explica como o sensor utilizado funciona em linhas gerais.    
